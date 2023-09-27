@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emin!;" />
 </h1>
 
+```csharp
 namespace Azerbaijan
 {
   public static class Program
@@ -21,3 +22,4 @@ namespace Azerbaijan
     }
   }
 }
+```
