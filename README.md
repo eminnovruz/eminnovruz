@@ -16,7 +16,7 @@ namespace Azerbaijan
           FirstName = "Emin",
           LastName = "Novruz".
           Age = (DateTime.UtcNow.Year - 2007),
-          Level = DeveloperLevel.Middle
+          Level = DeveloperLevel.Junior
         };
         dev.Run();
     }
